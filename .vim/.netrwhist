@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/yvyas/Projects/adayaway/adayaway/wasabi/resources'
+let g:netrw_dirhist_2='/home/yvyas/Projects/yvyass-glu-config/gradle'
+let g:netrw_dirhist_3='/home/yvyas/Projects/yvyass-glu-config/console-server'
+let g:netrw_dirhist_4='/home/yvyas/Projects/tarzon'
+let g:netrw_dirhist_5='/home/yvyas/Projects/glu-config'
+let g:netrw_dirhist_6='/home/yvyas/Projects/utils/misc'
+let g:netrw_dirhist_7='/home/yvyas/Projects/neatnew'
